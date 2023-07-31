@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ssova
+ *
+ */
+module StreamAPIEx {
+}
